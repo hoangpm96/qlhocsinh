@@ -1,0 +1,333 @@
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Form1.resources
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.CLASS.resources
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Scores.resources
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Semester.resources
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Student.resources
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Subjects.resources
+D:\THUC HANH C SHARP\NMCNPM\NMCNPM\obj\Debug\NMCNPM.HoSoHocSinh.resources
+C:\Users\Main\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+C:\Users\Main\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+C:\Users\Main\Desktop\My desktop\UIT Ky 2 Nam 2\NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+C:\Users\Main\Desktop\My desktop\UIT Ky 2 Nam 2\NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Class.resources
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Main.resources
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.HoSoHocSinh.resources
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Scores.resources
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Semester.resources
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Student.resources
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Subjects.resources
+D:\C Sharp\NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\BLL.dll
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\Public.dll
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\DATA.dll
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\Public.pdb
+D:\C Sharp\NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Class.resources
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Main.resources
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Scores.resources
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Semester.resources
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Student.resources
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Subjects.resources
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Frm_HoSoHocSinh.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\BLL.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\DATA.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_SuaHoSo.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_Home.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_BaoCaoTongKet.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DangNhap.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_NhapDiem.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_PhanLop.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThayDoiQuyDinh.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemNamHoc.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TiepNhanHocSinh.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TraCuuHS.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDanhSachLop.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDiemLop.resources
+E:\Nhập môn công nghệ phần mềm\NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XoaHoSoHocSinh.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_BaoCaoTongKet.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DangNhap.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_Home.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_NhapDiem.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_PhanLop.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThayDoiQuyDinh.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemNamHoc.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TiepNhanHocSinh.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TraCuuHS.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDanhSachLop.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDiemLop.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XoaHoSoHocSinh.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_SuaHoSo.resources
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_BaoCaoTongKet.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DangNhap.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_Home.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_NhapDiem.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_PhanLop.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThayDoiQuyDinh.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemNamHoc.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TiepNhanHocSinh.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TraCuuHS.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDanhSachLop.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDiemLop.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XoaHoSoHocSinh.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_SuaHoSo.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.ResolveComReference.cache
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DoiMatKhau.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TaoTaiKhoan.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThongTinPhanMem.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_HuongDanSuDung.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TaoNamHoc.resources
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemLop.resources
+C:\Users\HoangPhan\Desktop\DoAn\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+C:\Users\HoangPhan\Desktop\DoAn\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.ResolveComReference.cache
+C:\Users\HoangPhan\Desktop\DoAn\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Desktop\DoAn\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.ResolveComReference.cache
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_BaoCaoTongKet.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DangNhap.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DoiMatKhau.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_Home.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_HuongDanSuDung.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_NhapDiem.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_PhanLop.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TaoTaiKhoan.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThayDoiQuyDinh.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemLop.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemNamHoc.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThongTinPhanMem.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TiepNhanHocSinh.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TraCuuHS.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDanhSachLop.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDiemLop.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XoaHoSoHocSinh.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_SuaHoSo.resources
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.ResolveComReference.cache
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\Public.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\Public.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_BaoCaoTongKet.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DangNhap.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DoiMatKhau.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_Home.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_HuongDanSuDung.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_NhapDiem.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_PhanLop.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TaoTaiKhoan.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThayDoiQuyDinh.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemLop.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemNamHoc.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThongTinPhanMem.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TiepNhanHocSinh.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TraCuuHS.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDanhSachLop.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDiemLop.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XoaHoSoHocSinh.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_SuaHoSo.resources
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.ResolveComReference.cache
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.dll
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\Public.dll
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.dll
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\Public.pdb
+F:\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_BaoCaoTongKet.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DangNhap.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DoiMatKhau.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_Home.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_HuongDanSuDung.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_NhapDiem.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_PhanLop.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TaoTaiKhoan.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThayDoiQuyDinh.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemLop.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemNamHoc.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThongTinPhanMem.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TiepNhanHocSinh.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TraCuuHS.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDanhSachLop.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDiemLop.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XoaHoSoHocSinh.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_SuaHoSo.resources
+F:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.ResolveComReference.cache
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.dll
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\Public.dll
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.dll
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\Public.pdb
+I:\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_BaoCaoTongKet.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DangNhap.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DoiMatKhau.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_Home.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_HuongDanSuDung.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_NhapDiem.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_PhanLop.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TaoTaiKhoan.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThayDoiQuyDinh.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemLop.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemNamHoc.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThongTinPhanMem.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TiepNhanHocSinh.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TraCuuHS.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDanhSachLop.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDiemLop.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XoaHoSoHocSinh.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_SuaHoSo.resources
+I:\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe.config
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.ResolveComReference.cache
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.exe
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\NMCNPM.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\Public.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\BLL.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_BaoCaoTongKet.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DangNhap.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_DoiMatKhau.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_Home.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_HuongDanSuDung.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_NhapDiem.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_PhanLop.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TaoTaiKhoan.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThayDoiQuyDinh.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemLop.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThemNamHoc.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_ThongTinPhanMem.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TiepNhanHocSinh.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_TraCuuHS.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDanhSachLop.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XemDiemLop.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_XoaHoSoHocSinh.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.Properties.Resources.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.frm_SuaHoSo.resources
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\NMCNPM\obj\Debug\NMCNPM.csproj.GenerateResource.Cache

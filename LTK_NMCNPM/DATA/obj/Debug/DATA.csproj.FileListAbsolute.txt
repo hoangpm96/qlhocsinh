@@ -1,0 +1,63 @@
+D:\C Sharp\NMCNPM\DATA\bin\Debug\DATA.dll
+D:\C Sharp\NMCNPM\DATA\bin\Debug\DATA.pdb
+D:\C Sharp\NMCNPM\DATA\bin\Debug\Public.dll
+D:\C Sharp\NMCNPM\DATA\bin\Debug\Public.pdb
+D:\C Sharp\NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+D:\C Sharp\NMCNPM\DATA\obj\Debug\DATA.dll
+D:\C Sharp\NMCNPM\DATA\obj\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\DATA\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\DATA\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\DATA\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\DATA\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\NMCNPM\DATA\obj\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\DATA\obj\Debug\DATA.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\DATA\bin\Debug\DATA.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\DATA\bin\Debug\DATA.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\DATA\bin\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\DATA\bin\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+E:\Nhập môn công nghệ phần mềm\NMCNPM\DATA\obj\Debug\DATA.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\DATA\obj\Debug\DATA.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\DATA\bin\Debug\DATA.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\DATA\bin\Debug\DATA.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\DATA\bin\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\DATA\bin\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\DATA\obj\Debug\DATA.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\DATA\obj\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\DATA\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\DATA\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\DATA\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\DATA\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\DATA\obj\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\DATA\obj\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\DATA\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\DATA\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\DATA\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\DATA\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\DATA\obj\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\DATA\obj\Debug\DATA.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\DATA\bin\Debug\DATA.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\DATA\bin\Debug\DATA.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\DATA\bin\Debug\Public.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\DATA\bin\Debug\Public.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\DATA\obj\Debug\DATA.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\DATA\obj\Debug\DATA.pdb
+I:\LTK_NMCNPM\DATA\bin\Debug\DATA.dll
+I:\LTK_NMCNPM\DATA\bin\Debug\DATA.pdb
+I:\LTK_NMCNPM\DATA\bin\Debug\Public.dll
+I:\LTK_NMCNPM\DATA\bin\Debug\Public.pdb
+I:\LTK_NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+I:\LTK_NMCNPM\DATA\obj\Debug\DATA.dll
+I:\LTK_NMCNPM\DATA\obj\Debug\DATA.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\DATA\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\DATA\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\DATA\bin\Debug\Public.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\DATA\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\DATA\obj\Debug\DATA.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\DATA\obj\Debug\DATA.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\DATA\obj\Debug\DATA.pdb

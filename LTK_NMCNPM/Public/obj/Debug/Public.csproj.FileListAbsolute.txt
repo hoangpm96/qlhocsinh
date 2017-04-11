@@ -1,0 +1,29 @@
+D:\C Sharp\NMCNPM\Public\bin\Debug\Public.dll
+D:\C Sharp\NMCNPM\Public\bin\Debug\Public.pdb
+D:\C Sharp\NMCNPM\Public\obj\Debug\Public.dll
+D:\C Sharp\NMCNPM\Public\obj\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\Public\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\Public\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\Public\obj\Debug\Public.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\NMCNPM\Public\obj\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\Public\obj\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\Public\bin\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\Public\bin\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\Public\obj\Debug\Public.csprojResolveAssemblyReference.cache
+E:\Nhập môn công nghệ phần mềm\NMCNPM\Public\obj\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\Public\obj\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\Public\bin\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\Public\bin\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\Public\obj\Debug\Public.csprojResolveAssemblyReference.cache
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\Public\obj\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\Public\obj\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\Public\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\Public\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\Public\obj\Debug\Public.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\Public\obj\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\Public\obj\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\Public\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\Public\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\Public\obj\Debug\Public.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\Public\obj\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\Public\obj\Debug\Public.pdb

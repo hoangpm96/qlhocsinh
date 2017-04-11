@@ -1,0 +1,81 @@
+D:\C Sharp\NMCNPM\BLL\bin\Debug\BLL.dll
+D:\C Sharp\NMCNPM\BLL\bin\Debug\BLL.pdb
+D:\C Sharp\NMCNPM\BLL\bin\Debug\DATA.dll
+D:\C Sharp\NMCNPM\BLL\bin\Debug\Public.dll
+D:\C Sharp\NMCNPM\BLL\bin\Debug\DATA.pdb
+D:\C Sharp\NMCNPM\BLL\bin\Debug\Public.pdb
+D:\C Sharp\NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\C Sharp\NMCNPM\BLL\obj\Debug\BLL.dll
+D:\C Sharp\NMCNPM\BLL\obj\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\bin\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\bin\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\obj\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\NMCNPM\BLL\obj\Debug\BLL.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\bin\Debug\BLL.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\bin\Debug\BLL.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\bin\Debug\DATA.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\bin\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\bin\Debug\DATA.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\bin\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\obj\Debug\BLL.dll
+E:\Nhập môn công nghệ phần mềm\NMCNPM\BLL\obj\Debug\BLL.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\bin\Debug\BLL.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\bin\Debug\BLL.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\bin\Debug\DATA.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\bin\Debug\Public.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\bin\Debug\DATA.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\bin\Debug\Public.pdb
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\obj\Debug\BLL.dll
+E:\Nhập môn công nghệ phần mềm\LTK_NMCNPM\BLL\obj\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\bin\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\bin\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\obj\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\LTK_NMCNPM\BLL\obj\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\bin\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\bin\Debug\BLL.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\bin\Debug\Public.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\obj\Debug\BLL.dll
+C:\Users\HoangPhan\Desktop\DoAn_LTK\LTK_NMCNPM\BLL\obj\Debug\BLL.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\bin\Debug\BLL.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\bin\Debug\BLL.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\bin\Debug\DATA.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\bin\Debug\Public.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\bin\Debug\DATA.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\bin\Debug\Public.pdb
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\obj\Debug\BLL.dll
+C:\Users\NGUYEN TRUC\Desktop\LTK_NMCNPM\BLL\obj\Debug\BLL.pdb
+I:\LTK_NMCNPM\BLL\bin\Debug\BLL.dll
+I:\LTK_NMCNPM\BLL\bin\Debug\BLL.pdb
+I:\LTK_NMCNPM\BLL\bin\Debug\DATA.dll
+I:\LTK_NMCNPM\BLL\bin\Debug\Public.dll
+I:\LTK_NMCNPM\BLL\bin\Debug\DATA.pdb
+I:\LTK_NMCNPM\BLL\bin\Debug\Public.pdb
+I:\LTK_NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+I:\LTK_NMCNPM\BLL\obj\Debug\BLL.dll
+I:\LTK_NMCNPM\BLL\obj\Debug\BLL.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\bin\Debug\BLL.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\bin\Debug\BLL.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\bin\Debug\DATA.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\bin\Debug\Public.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\bin\Debug\DATA.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\bin\Debug\Public.pdb
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\obj\Debug\BLL.dll
+C:\Users\HoangPhan\Downloads\LTK_NMCNPM\BLL\obj\Debug\BLL.pdb
