@@ -1,2 +1,8 @@
-id: hummock
-pass: 1234
+——
+Quyen quan tri vien
+id: hukrock
+pass: minhhoang
+——
+Quyen giao vien:
+id: teacher
+pass: pass1234
